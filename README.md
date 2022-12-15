@@ -6,7 +6,7 @@
 
 GitHub地址：<https://github.com/NeverMin/zammad-calendar/blob/master/holiday.ics>
 
-国内地址：<https://https://zammad.com.cn/holiday.ics>
+国内地址：<https://zammad.com.cn/holiday.ics>
 
 使用iPhone直接访问或者其他客户端订阅上述地址即可得到全部的日历信息
 
