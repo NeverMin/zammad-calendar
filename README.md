@@ -10,6 +10,11 @@ GitHub地址：<https://github.com/NeverMin/zammad-calendar/blob/master/holiday.
 
 使用iPhone直接访问或者其他客户端订阅上述地址即可得到全部的日历信息
 
+## Zammad
+* source: `https://github.com/zammad/zammad/blob/develop/config/holiday_calendars.yml`
+* for China: `https://www.google.com/calendar/ical/en.china%23holiday%40group.v.calendar.google.com/public/basic.ics`
+* 订阅地址: `https://zammad.com.cn/google.ics`
+
 ## 特点
 
 - 节假日信息来自[中国政府网](http://www.gov.cn/)的节假日安排公报，信息权威准确
