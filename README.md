@@ -4,9 +4,9 @@
 
 提供2010~2023年中国节假日放假、调休和补班日历的ICS格式订阅，可供iPhone、Google Calender、Outlook等支持iCalendar标准的客户端订阅
 
-GitHub地址：<https://raw.githubusercontent.com/congqiu/ChineseHoliday/master/holiday.ics>
+GitHub地址：<https://github.com/NeverMin/zammad-calendar/blob/master/holiday.ics>
 
-Gitee地址：<https://gitee.com/congqiu/ChineseHoliday/raw/master/holiday.ics>
+国内地址：<https://https://zammad.com.cn/holiday.ics>
 
 使用iPhone直接访问或者其他客户端订阅上述地址即可得到全部的日历信息
 
